@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Meanwhile-omkar
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning data science & ML
-- 💞️ I’m looking to collaborate on ...not decided yet
+- 👋 Hi, I’m Omkar Haryan
+- 👀 I’ve recently explored and got engaged in Machine Learning
+- 🌱 I’m currently enrolled in data science engineering
+- 💞️ I’m looking out to work on ML projects
 - 📫 How to reach me ...omkar.djsce27@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I hate coding
 
 <!---
 Meanwhile-omkar/Meanwhile-omkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
